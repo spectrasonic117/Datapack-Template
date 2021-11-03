@@ -1,0 +1,13 @@
+{  
+    "pack":{
+        "pack_format":7,
+        "description":"§7Descripcion del Datapck"
+        }
+}
+
+// Datapack versions Cheat-Sheet:
+//     1.13 - 1.14         = 4 
+//     1.15 - 1.16.1       = 5
+//     1.16.2 - 1.16.5     = 6
+//     1.17                = 7
+//     1.18*               = 8

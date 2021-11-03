@@ -1,0 +1,4 @@
+tellraw @a ["",{"text":"====================","color":"gray"},{"text":"\n"},{"text":"Datapack Loaded\u2026","italic":true,"color":"green"},{"text":"\n\n"},{"text":"[Click Me to see my links]","italic":true,"color":"#ECBE48","clickEvent":{"action":"open_url","value":"https://spectrasonic.carrd.com"},"hoverEvent":{"action":"show_text","contents":"Click to see my social media ^^"}},{"text":"\n"},{"text":"====================","color":"gray"}]
+
+
+// archivo que se ejecuta al iniciar el datapack
